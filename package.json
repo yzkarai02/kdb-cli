@@ -11,7 +11,7 @@
     "picocolors": "^1.1.1"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.10"
+    "@types/inquirer": "^10.0.0"
   },
   "bin": {
     "kdb": "index.js"
